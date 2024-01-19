@@ -1,0 +1,12 @@
+type Message 
+  @model 
+  @auth (
+    rules: [
+      # allow only signed in users
+      { allow: private, provider: userPools }
+    ]
+  ){
+  id: ID!
+  owner: String!
+  message: String!
+  }

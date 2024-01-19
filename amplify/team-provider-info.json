@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ttk-dev-140502-authRole",
+      "UnauthRoleArn": "arn:aws:iam::168295424194:role/amplify-ttk-dev-140502-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::168295424194:role/amplify-ttk-dev-140502-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-ttk-dev-140502-deployment",
+      "UnauthRoleName": "amplify-ttk-dev-140502-unauthRole",
+      "StackName": "amplify-ttk-dev-140502",
+      "StackId": "arn:aws:cloudformation:eu-west-1:168295424194:stack/amplify-ttk-dev-140502/0eedffb0-b5e9-11ee-9169-0616b6f1048d",
+      "AmplifyAppId": "d161gs34gdi17q"
+    },
+    "categories": {
+      "auth": {
+        "ttkf7438b6e": {}
+      },
+      "api": {
+        "ttk": {}
+      }
+    }
+  }
+}
